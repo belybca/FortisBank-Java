@@ -1,0 +1,40 @@
+cl001
+Bill Gates
+windows
+Active
+cl002
+Steve Jobs
+apple
+Active
+cl003
+You Pan
+poutine
+Active
+cl004
+Albelis Becea
+unodostres
+Active
+cl005
+Rames Bhoi
+rangoli
+Active
+cl006
+Rosa Machado
+rosas
+Active
+cl090834
+huy
+ryu
+Active
+cl00458
+Romulo Gallegos
+donabarbara
+Active
+cl09834
+Aquiles Nazoa
+elburroflautista
+Active
+newCust566
+Test Customer
+test
+Active
